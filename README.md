@@ -2,6 +2,10 @@
 
 This repository contains low poly blender art. 
 
+# Renderings
+
+You can find renderings of these files here: https://www.artstation.com/kaiwegner
+
 # License
 
 Copyright (C) 2017 Kai Wegner
