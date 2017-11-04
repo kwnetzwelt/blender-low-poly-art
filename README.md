@@ -4,7 +4,7 @@ This repository contains low poly blender art.
 
 # Renderings
 
-You can find renderings of these files here: https://www.artstation.com/kaiwegner
+You can find renderings of these files here: https://kaiwegner.artstation.com
 
 # License
 
